@@ -1,4 +1,4 @@
-# Evaluating-GPT-Image-1-UML-Component-DIagram-Generation
+# Direct Architecture Diagram Generation from Requirements: An Evaluation of Multimodal LLMs
 This repository contains all materials used in our study on assessing the diagram-generation capabilities of GPT-Image-1 across multiple architectural settings.
 
 codes/
